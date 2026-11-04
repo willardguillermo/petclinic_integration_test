@@ -13,3 +13,4 @@ mvn clean test -Dspring.profiles.active=h2
 | Integrante | Ejercicio | Pruebas |
 |---|---|---|
 | Guillermo Willard Castillo | Ejercicio 1 — Vet | VetControllerTest: testFindAllVets, testFindVetOK, testFindVetKO, testCreateVet, testUpdateVet, testDeleteVet, testDeleteVetKO |
+| Alexander | Ejercicio 2 — Owner | OwnerControllerTest y OwnerControllerMockitoTest: testFindAllOwners, testFindOwnerOK, testFindOwnerKO, testCreateOwner, testCreateOwner_BadRequest, testFindByLastName, testUpdateOwner, testDeleteOwner, testDeleteOwnerKO |
