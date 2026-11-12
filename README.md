@@ -14,6 +14,7 @@ mvn clean test -Dspring.profiles.active=h2
 |---|---|---|
 | Guillermo Willard Castillo | Ejercicio 1 — Vet | VetControllerTest: testFindAllVets, testFindVetOK, testFindVetKO, testCreateVet, testUpdateVet, testDeleteVet, testDeleteVetKO |
 | Alexander | Ejercicio 2 — Owner | OwnerControllerTest y OwnerControllerMockitoTest: testFindAllOwners, testFindOwnerOK, testFindOwnerKO, testCreateOwner, testCreateOwner_BadRequest, testFindByLastName, testUpdateOwner, testDeleteOwner, testDeleteOwnerKO |
+| Mijael | Ejercicio 3 — Specialty | SpecialtyControllerTest: testFindAllSpecialties, testFindSpecialtyOK, testFindSpecialtyKO, testCreateSpecialty, testFindByName, testFindByOffice, testCreateSpecialty_InvalidSchedule, testCreateSpecialty_InvalidHourRange, testDeleteSpecialty |
 
 ## Laboratorio 13 — Integración Continua con Jenkins
 
